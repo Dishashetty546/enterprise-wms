@@ -2,6 +2,10 @@
 
 ![EWM Banner](./screenshots/Banner.png)
 
+## Deployment
+
+- Frontend deployed on Vercel: [https://enterprise-wms-5gn7.vercel.app/](https://enterprise-wms-5gn7.vercel.app/)
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
@@ -31,6 +35,39 @@ Key goals:
 - Enable real-time updates and notifications.
 
 ---
+
+## 🛠 Usage
+
+You can log in with the following demo credentials to explore the application:
+
+- **Admin**  
+  Email: `admin@acme.com`  
+  Password: `secret123`
+
+- **Manager**  
+  Email: `manager@acme.com`  
+  Password: `secret123`
+
+- **Employee**  
+  Email: `employee@acme.com`  
+  Password: `secret123`
+
+### Role-Based Actions
+
+- **Admin**
+
+  - Manage users
+  - Manage projects
+  - Manage tasks
+
+- **Manager**
+
+  - Assign tasks
+  - View reports
+
+- **Employee**
+  - Update task status
+  - View assigned tasks
 
 ## Features
 
@@ -122,39 +159,6 @@ npm start
 ```bash
 http://localhost:3000
 ```
-
-## 🛠 Usage
-
-You can log in with the following demo credentials to explore the application:
-
-- **Admin**  
-  Email: `admin@acme.com`  
-  Password: `secret123`
-
-- **Manager**  
-  Email: `manager@acme.com`  
-  Password: `secret123`
-
-- **Employee**  
-  Email: `employee@acme.com`  
-  Password: `secret123`
-
-### Role-Based Actions
-
-- **Admin**
-
-  - Manage users
-  - Manage projects
-  - Manage tasks
-
-- **Manager**
-
-  - Assign tasks
-  - View reports
-
-- **Employee**
-  - Update task status
-  - View assigned tasks
 
 ## Screenshots
 
