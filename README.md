@@ -2,8 +2,9 @@
 
 ![EWM Banner](./screenshots/Banner.png)
 
-## Deployment
+## Documentation
 
+- Project repository: [Enterprise WMS GitHub](https://github.com/Dishashetty546/enterprise-wms)
 - Frontend deployed on Vercel: [https://enterprise-wms-5gn7.vercel.app/](https://enterprise-wms-5gn7.vercel.app/)
 
 ## Table of Contents
