@@ -1,6 +1,6 @@
 # Enterprise Work Management System (EWM)
 
-![EWM Banner](../screenshots/Banner.png)
+![EWM Banner](./screenshots/Banner.png)
 
 ## Table of Contents
 
@@ -142,11 +142,13 @@ You can log in with the following demo credentials to explore the application:
 ### Role-Based Actions
 
 - **Admin**
+
   - Manage users
   - Manage projects
   - Manage tasks
 
 - **Manager**
+
   - Assign tasks
   - View reports
 
@@ -164,35 +166,35 @@ _(Replace the sample image paths with actual screenshots from your project.)_
 ### Login Page
 
 The login page allows users to securely sign in with their credentials.  
-![Login Page](../screenshots/Login.png)
+![Login Page](./screenshots/Login.png)
 
 ---
 
 ### Dashboard
 
 The dashboard gives an overview of tasks, activities, and quick stats for easy navigation.  
-![Dashboard](../screenshots/Dashboard.png)
+![Dashboard](./screenshots/Dashboard.png)
 
 ---
 
 ### Kanban Board
 
 The Kanban board helps in managing tasks visually with drag-and-drop functionality.  
-![Kanban Board](../screenshots/Kanban.png)
+![Kanban Board](./screenshots/Kanban.png)
 
 ---
 
 ### User Management
 
 Admins can manage user accounts, roles, and permissions from this section.  
-![User Management](../screenshots/Admin.png)
+![User Management](./screenshots/Admin.png)
 
 ---
 
 ### Reports & Analytics
 
 This section provides insights through charts and reports for better decision-making.  
-![Reports & Analytics](../screenshots/Reports.png)
+![Reports & Analytics](./screenshots/Reports.png)
 
 ## Testing
 
