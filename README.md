@@ -165,8 +165,6 @@ http://localhost:3000
 ## Screenshots
 
 Below are some key screens of the application.  
-_(Replace the sample image paths with actual screenshots from your project.)_
-
 ---
 
 ### Login Page
@@ -243,3 +241,4 @@ Contributions are welcome! Follow the steps below to contribute:
    git push origin feature-name
 
 ```
+THANK YOU !
