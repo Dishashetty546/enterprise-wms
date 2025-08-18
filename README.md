@@ -139,8 +139,9 @@ You can log in with the following demo credentials to explore the application:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/enterprise-work-management.git
+git clone https://github.com/Dishashetty546/enterprise-wms.git
 cd enterprise-work-management
+cd frontend
 ```
 
 2. Install dependencies
